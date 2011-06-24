@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15"
+   height="30"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="default.svg"
+   inkscape:export-filename="/var/www/proyectos/enoaxaca-cake/app/webroot/img/comercios_cuidad_oaxaca/default.png"
+   inkscape:export-xdpi="89.999985"
+   inkscape:export-ydpi="89.999985">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.620121"
+     inkscape:cx="17.735848"
+     inkscape:cy="8.5471081"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="691"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1022.3622)">
+    <g
+       id="g3853"
+       transform="translate(-670.39906,921.107)">
+      <g
+         transform="translate(-0.44632865,-3.0357617)"
+         id="g3832">
+        <rect
+           style="fill:#999999;fill-opacity:1;stroke:none"
+           id="rect2996"
+           width="15"
+           height="15"
+           x="670.84741"
+           y="104.29086"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:3.55471396px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="550.83203"
+           y="-397.80176"
+           id="text3778"
+           sodipodi:linespacing="125%"
+           transform="matrix(0.70942741,0.70477851,-0.70477851,0.70942741,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan3780"
+             x="550.83203"
+             y="-397.80176">publicidad</tspan></text>
+      </g>
+      <g
+         transform="translate(-10.803471,-4.1070958)"
+         id="g3848">
+        <rect
+           ry="0"
+           y="120.3623"
+           x="681.20453"
+           height="15"
+           width="15"
+           id="rect3839"
+           style="fill:#e6e6e6;fill-opacity:1;stroke:none" />
+        <text
+           transform="matrix(0.70942741,0.70477851,-0.70477851,0.70942741,0,0)"
+           sodipodi:linespacing="125%"
+           id="text3841"
+           y="-393.69974"
+           x="569.50647"
+           style="font-size:3.55471396px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           xml:space="preserve"><tspan
+             y="-393.69974"
+             x="569.50647"
+             id="tspan3843"
+             sodipodi:role="line">publicidad</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
